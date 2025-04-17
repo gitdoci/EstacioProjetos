@@ -20,4 +20,5 @@ int main(){
     printf ("Nome do aluno: %s - Matrícula: %d\n", nome, matricula);
     printf ("Idade: %d - altura: %.2f\n", idade, altura);
 
+    
 }
